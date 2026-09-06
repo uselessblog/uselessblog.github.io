@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title><![CDATA[Posts tagged website]]></title>
-    <description><![CDATA[Posts tagged website]]></description>
+    <title><![CDATA[Posts tagged search-engine]]></title>
+    <description><![CDATA[Posts tagged search-engine]]></description>
     <link>https://github.com/ga2mer/rss.cr</link>
     <generator>RSS for Crystal</generator>
     <lastBuildDate>2026-09-06 09:25:33 UTC</lastBuildDate>
@@ -24,25 +24,6 @@ Das ist für sich schon eine interessante Alternative zu Google und Co., allerdi
       <link>/posts/kagi-small-web.html</link>
       <guid isPermaLink="true">/posts/kagi-small-web.html</guid>
       <pubDate>2026-09-06 09:36:59 +02:00</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Nicolino - Static Site Generator - Was ist das?]]></title>
-      <description><![CDATA[<p>Diese Seite wurde mithilfe von <a href="https://nicolino.ralsina.me">Nicolino</a> erstellt. Was ist Nicolino?</p>
-
-<p>Nicolino ist ein Tool mit dessen Hilfe man eine Webseite, also zum Beispiel einen Blog in Form von statischen HTML-Dateien erstellen kann.</p>
-
-<p>Der Vorteil so eines Tools ist, dass man neue Inhalte, also zum Beispiel Blog-Posts in Form von einfachem Markdown-Code schreiben kann und dieser dann automatisiert in (komplexeren) HTML-Code umgewandelt wird.</p>
-
-<p>Static Site Generators gibt es viele. Warum also Nicolino? Ich hatte in der Vergangenheit schon Erfahrungen mit dem in Python geschriebenen Static Site Generator Nikola gemacht. Auf der Suche nach einer Möglichkeit einen simplen Text-basierten Blog zu erstellen, sah ich mich daher auch auf den Webseiten des Nikola-Projektes um. Dort fiel mir das neue Projekt deselben Entwicklers <a href="https://ralsina.me">Roberto Alsina</a>. Aus Neugier probierte ich es aus und sieh da - es erfüllte alle Anforderungen, die ich zu diesem Zeitpunkt hatte, nämlich eine einfache text-basierte statische Webseite zu erzeugen, die leicht mit neuem Inhalt in Form von Blog-Posts befüllt werden kann. Der große Vorteil von statischen HTML-Dateien ist, dass man nicht - wie zum Beispiel bei Wordpress - regelmäßig an Updates denken muss. Die statischen Dateien sind - solange sie auf einem sicheren, aktuellen Webserver liegen quasi imun gegen Cyber-Angriffe aller Art.</p>
-
-<p>Was ist der Workflow, wenn man mit Nicolino arbeitet? Zuerst erstellt man eine Konfigurationsdatei bzw. passt die bereitgestellte Datei auf die eigenene Bedürfnisse an. Wenn man dann die Struktur der eigenen Webseite einmal hat, dann generiert man neue Seiten bzw. Blogposteinträge mit einem einfachen Command-Line-Befehl und kann diese dann mit Inhalt befüllen. In meinem Fall ist dies nur Text, man könnte aber auch Bilder einbinden.</p>
-
-<p>Hat man seinen Text dann geschrieben, so wandelt Nicolino nach Aufruf eines weiteren Command-Line-Befehls die erstellten Inhalte in HTML-Dateien, die dann auf einen Webserver gestellt werden können.</p>
-
-<p>Möglicherweise braucht es etwas Zeit und Geduld um die Logik des Tools zu verstehen. Hat man dies aber einmal heraus, so ist Nicolino ein praktisches Werkzeug mit dem man in kürzester Zeit Inhalte online stellen kann.</p>]]></description>
-      <link>/posts/nicolino.html</link>
-      <guid isPermaLink="true">/posts/nicolino.html</guid>
-      <pubDate>2026-09-04 23:09:38 +02:00</pubDate>
     </item>
   </channel>
 </rss>

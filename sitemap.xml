@@ -6,7 +6,7 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"><url> # ameba:disable Style/MultilineStringLiteral
               <loc>index.html</loc>
-              <lastmod>2026-09-05 10:42:40 UTC</lastmod>
+              <lastmod>2026-09-06 09:11:26 UTC</lastmod>
             </url><url> # ameba:disable Style/MultilineStringLiteral
               <loc>kontakt.html</loc>
               <lastmod>2026-09-04 19:43:20 UTC</lastmod>
@@ -23,6 +23,9 @@
               <loc>posts/dog-stars.html</loc>
               <lastmod>2026-09-04 19:43:20 UTC</lastmod>
             </url><url> # ameba:disable Style/MultilineStringLiteral
+              <loc>posts/kagi-small-web.html</loc>
+              <lastmod>2026-09-06 08:17:02 UTC</lastmod>
+            </url><url> # ameba:disable Style/MultilineStringLiteral
               <loc>posts/nicolino.html</loc>
               <lastmod>2026-09-05 07:33:05 UTC</lastmod>
             </url><url> # ameba:disable Style/MultilineStringLiteral
@@ -33,5 +36,5 @@
               <lastmod>2026-09-05 06:32:26 UTC</lastmod>
             </url><url> # ameba:disable Style/MultilineStringLiteral
               <loc>tags/index.html</loc>
-              <lastmod>2026-09-05 07:57:22 UTC</lastmod>
+              <lastmod>2026-09-06 08:17:02 UTC</lastmod>
             </url></urlset>
