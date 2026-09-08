@@ -3,9 +3,9 @@
   <channel>
     <title><![CDATA[Posts tagged nicolino]]></title>
     <description><![CDATA[Posts tagged nicolino]]></description>
-    <link>https://github.com/ga2mer/rss.cr</link>
+    <link>https://uselessblog.github.io</link>
     <generator>RSS for Crystal</generator>
-    <lastBuildDate>2026-09-06 17:16:58 UTC</lastBuildDate>
+    <lastBuildDate>2026-09-06 19:52:14 UTC</lastBuildDate>
     <language><![CDATA[DE]]></language>
     <item>
       <title><![CDATA[Nicolino - Static Site Generator - Was ist das?]]></title>
@@ -22,8 +22,8 @@
 <p>Hat man seinen Text dann geschrieben, so wandelt Nicolino nach Aufruf eines weiteren Command-Line-Befehls die erstellten Inhalte in HTML-Dateien, die dann auf einen Webserver gestellt werden können.</p>
 
 <p>Möglicherweise braucht es etwas Zeit und Geduld um die Logik des Tools zu verstehen. Hat man dies aber einmal heraus, so ist Nicolino ein praktisches Werkzeug mit dem man in kürzester Zeit Inhalte online stellen kann.</p>]]></description>
-      <link>/posts/nicolino.html</link>
-      <guid isPermaLink="true">/posts/nicolino.html</guid>
+      <link>https://uselessblog.github.io/posts/nicolino.html</link>
+      <guid isPermaLink="true">https://uselessblog.github.io/posts/nicolino.html</guid>
       <pubDate>2026-09-04 23:09:38 +02:00</pubDate>
     </item>
   </channel>

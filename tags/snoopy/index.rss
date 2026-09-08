@@ -3,19 +3,19 @@
   <channel>
     <title><![CDATA[Posts tagged snoopy]]></title>
     <description><![CDATA[Posts tagged snoopy]]></description>
-    <link>https://github.com/ga2mer/rss.cr</link>
+    <link>https://uselessblog.github.io</link>
     <generator>RSS for Crystal</generator>
-    <lastBuildDate>2026-09-06 17:16:58 UTC</lastBuildDate>
+    <lastBuildDate>2026-09-06 19:52:14 UTC</lastBuildDate>
     <language><![CDATA[DE]]></language>
     <item>
       <title><![CDATA[Snoopy und die Peanuts]]></title>
-      <description><![CDATA[<p><img src="/posts/images/snoopy.png" height="300" width="250" alt="Snoopy" /></p>
+      <description><![CDATA[<p><img src="https://uselessblog.github.io/posts/images/snoopy.png" height="300" width="250" alt="Snoopy" /></p>
 
 <p>Vor kurzem habe ich in einem Museums-Shop den Sammelband "The Third Classic Peanuts Collection" entdeckt. Ich habe mich bisher noch nie intensiv mit Snoopy und den Peanuts auseinandergesetzt. Ich kenne sie natürlich aus meiner Kindheit, aber bis vor kurzem waren sie bei mir ein wenig in Vergessenheit geraten. Jedenfalls mag ich den reduzierten Style der Zeichnungen des Schöpfers Charles M. Schulz. Snoopy und Charlie Brown waren mir auch schon immer sympathisch.</p>
 
 <p>Nach der Lektüre dieser gesammelten Comic Strips muss ich sagen: Sie sind überraschend gut gealtert. Die Zeichnungen aus diesem Sammelband sind zum Beispiel zwischen 1958 und 1964 entstanden, also schon über 60 Jahre alt. Trotzdem sind sie noch unterhaltsam und die Charaktere mit ihren Eigenschaften, die sich durch alle Geschichten ziehen, durchwegs sympathisch. Jedenfalls wert noch gelesen zu werden.</p>]]></description>
-      <link>/posts/snoopy-peanuts.html</link>
-      <guid isPermaLink="true">/posts/snoopy-peanuts.html</guid>
+      <link>https://uselessblog.github.io/posts/snoopy-peanuts.html</link>
+      <guid isPermaLink="true">https://uselessblog.github.io/posts/snoopy-peanuts.html</guid>
       <pubDate>2026-09-05 07:54:42 +02:00</pubDate>
     </item>
   </channel>

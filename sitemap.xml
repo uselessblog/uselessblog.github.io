@@ -5,39 +5,45 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"><url> # ameba:disable Style/MultilineStringLiteral
-              <loc>index.html</loc>
-              <lastmod>2026-09-06 17:16:58 UTC</lastmod>
+              <loc>https://uselessblog.github.io/datenschutz.html</loc>
+              <lastmod>2026-09-08 09:56:30 UTC</lastmod>
             </url><url> # ameba:disable Style/MultilineStringLiteral
-              <loc>kontakt.html</loc>
-              <lastmod>2026-09-06 17:16:58 UTC</lastmod>
+              <loc>https://uselessblog.github.io/index.html</loc>
+              <lastmod>2026-09-06 19:52:14 UTC</lastmod>
             </url><url> # ameba:disable Style/MultilineStringLiteral
-              <loc>posts/MCs-Musikkassetten.html</loc>
-              <lastmod>2026-09-06 17:16:58 UTC</lastmod>
+              <loc>https://uselessblog.github.io/kontakt.html</loc>
+              <lastmod>2026-09-08 09:51:38 UTC</lastmod>
             </url><url> # ameba:disable Style/MultilineStringLiteral
-              <loc>posts/a-new-adventure.html</loc>
-              <lastmod>2026-09-06 17:16:58 UTC</lastmod>
+              <loc>https://uselessblog.github.io/posts/MCs-Musikkassetten.html</loc>
+              <lastmod>2026-09-06 19:52:14 UTC</lastmod>
             </url><url> # ameba:disable Style/MultilineStringLiteral
-              <loc>posts/bear-blog.html</loc>
-              <lastmod>2026-09-06 17:25:07 UTC</lastmod>
+              <loc>https://uselessblog.github.io/posts/a-new-adventure.html</loc>
+              <lastmod>2026-09-06 19:52:14 UTC</lastmod>
             </url><url> # ameba:disable Style/MultilineStringLiteral
-              <loc>posts/black-out-buch.html</loc>
-              <lastmod>2026-09-06 17:16:58 UTC</lastmod>
+              <loc>https://uselessblog.github.io/posts/bear-blog.html</loc>
+              <lastmod>2026-09-06 19:52:14 UTC</lastmod>
             </url><url> # ameba:disable Style/MultilineStringLiteral
-              <loc>posts/dog-stars.html</loc>
-              <lastmod>2026-09-06 17:16:58 UTC</lastmod>
+              <loc>https://uselessblog.github.io/posts/black-out-buch.html</loc>
+              <lastmod>2026-09-06 19:52:14 UTC</lastmod>
             </url><url> # ameba:disable Style/MultilineStringLiteral
-              <loc>posts/kagi-small-web.html</loc>
-              <lastmod>2026-09-06 17:16:58 UTC</lastmod>
+              <loc>https://uselessblog.github.io/posts/dog-stars.html</loc>
+              <lastmod>2026-09-06 19:52:14 UTC</lastmod>
             </url><url> # ameba:disable Style/MultilineStringLiteral
-              <loc>posts/nicolino.html</loc>
-              <lastmod>2026-09-06 17:16:58 UTC</lastmod>
+              <loc>https://uselessblog.github.io/posts/kagi-small-web.html</loc>
+              <lastmod>2026-09-06 19:52:14 UTC</lastmod>
             </url><url> # ameba:disable Style/MultilineStringLiteral
-              <loc>posts/sleeps-walk-dream.html</loc>
-              <lastmod>2026-09-06 17:16:58 UTC</lastmod>
+              <loc>https://uselessblog.github.io/posts/maj.html</loc>
+              <lastmod>2026-09-08 17:19:03 UTC</lastmod>
             </url><url> # ameba:disable Style/MultilineStringLiteral
-              <loc>posts/snoopy-peanuts.html</loc>
-              <lastmod>2026-09-06 17:16:58 UTC</lastmod>
+              <loc>https://uselessblog.github.io/posts/nicolino.html</loc>
+              <lastmod>2026-09-06 19:52:14 UTC</lastmod>
             </url><url> # ameba:disable Style/MultilineStringLiteral
-              <loc>tags/index.html</loc>
-              <lastmod>2026-09-06 17:25:07 UTC</lastmod>
+              <loc>https://uselessblog.github.io/posts/sleeps-walk-dream.html</loc>
+              <lastmod>2026-09-06 19:52:14 UTC</lastmod>
+            </url><url> # ameba:disable Style/MultilineStringLiteral
+              <loc>https://uselessblog.github.io/posts/snoopy-peanuts.html</loc>
+              <lastmod>2026-09-06 19:52:14 UTC</lastmod>
+            </url><url> # ameba:disable Style/MultilineStringLiteral
+              <loc>https://uselessblog.github.io/tags/index.html</loc>
+              <lastmod>2026-09-08 17:19:03 UTC</lastmod>
             </url></urlset>

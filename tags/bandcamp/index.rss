@@ -3,9 +3,9 @@
   <channel>
     <title><![CDATA[Posts tagged bandcamp]]></title>
     <description><![CDATA[Posts tagged bandcamp]]></description>
-    <link>https://github.com/ga2mer/rss.cr</link>
+    <link>https://uselessblog.github.io</link>
     <generator>RSS for Crystal</generator>
-    <lastBuildDate>2026-09-06 17:16:58 UTC</lastBuildDate>
+    <lastBuildDate>2026-09-06 19:52:14 UTC</lastBuildDate>
     <language><![CDATA[DE]]></language>
     <item>
       <title><![CDATA[Sleep / Walk / Dream]]></title>
@@ -14,8 +14,8 @@
 <p>Das ganze (kurze) Mini-Album ist hier auf der Plattform "Bandcamp" zu finden: <a href="https://shaping-colours.bandcamp.com/music">Sleep / Walk / Dream</a></p>
 
 <p>Man findet es aber aktuell auch auf Spotify.</p>]]></description>
-      <link>/posts/sleeps-walk-dream.html</link>
-      <guid isPermaLink="true">/posts/sleeps-walk-dream.html</guid>
+      <link>https://uselessblog.github.io/posts/sleeps-walk-dream.html</link>
+      <guid isPermaLink="true">https://uselessblog.github.io/posts/sleeps-walk-dream.html</guid>
       <pubDate>2026-09-05 09:48:25 +02:00</pubDate>
     </item>
   </channel>

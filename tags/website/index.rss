@@ -3,9 +3,9 @@
   <channel>
     <title><![CDATA[Posts tagged website]]></title>
     <description><![CDATA[Posts tagged website]]></description>
-    <link>https://github.com/ga2mer/rss.cr</link>
+    <link>https://uselessblog.github.io</link>
     <generator>RSS for Crystal</generator>
-    <lastBuildDate>2026-09-06 17:26:45 UTC</lastBuildDate>
+    <lastBuildDate>2026-09-06 19:52:14 UTC</lastBuildDate>
     <language><![CDATA[DE]]></language>
     <item>
       <title><![CDATA[Bear - Blogging simple und text-basiert...]]></title>
@@ -14,8 +14,8 @@
 <p>Wie ich dann herausfinden sollte, waren sie alle auf <a href="https://bearblog.dev">"Bear"</a> gehostet, einer Blogging-Plattform, die sich auf simples Design spezialisiert hat. Seither verbringe ich nicht wenig Zeit vorm Computer um diese Blogs zu erkunden und mich durch die Blog-Beiträge zu klicken.</p>
 
 <p>Bear ist sozusagen Blogging as pure as it gets, ohne viel Ablenkung und SchnickSchnack, zwar leider vorwiegend in englischer Sprache, aber durchwegs spannend.</p>]]></description>
-      <link>/posts/bear-blog.html</link>
-      <guid isPermaLink="true">/posts/bear-blog.html</guid>
+      <link>https://uselessblog.github.io/posts/bear-blog.html</link>
+      <guid isPermaLink="true">https://uselessblog.github.io/posts/bear-blog.html</guid>
       <pubDate>2026-09-06 19:23:19 +02:00</pubDate>
     </item>
     <item>
@@ -32,8 +32,8 @@ Das ist für sich schon eine interessante Alternative zu Google und Co., allerdi
 <p>Damit fühlt sich Kagi Small Web eher an, wie wenn man durch eine Zeitschrift blättert, als Internet-Surfen in den 2020ern. Die Themen der Blogs mögen zwar vielfältiger sein, als in einer Zeitschrift, da Zeitschriften meist themen-spezifisch sind, und generell findet man selten etwas, das man vielleicht gezielt sucht. Oft wird man aber auf Themen und Dinge gestoßen, über die man sich bisher vielleicht noch keine Gedanken gemacht hat, oder die man vielleicht nicht aus dieser Perspektive gesehen hat.</p>
 
 <p>Kagi Small Web ist verfügbar für alle Browser und als App für Android und IOS. Einfach mal ausprobieren: <a href="https://kagi.com/smallweb">Kagi Small Web</a></p>]]></description>
-      <link>/posts/kagi-small-web.html</link>
-      <guid isPermaLink="true">/posts/kagi-small-web.html</guid>
+      <link>https://uselessblog.github.io/posts/kagi-small-web.html</link>
+      <guid isPermaLink="true">https://uselessblog.github.io/posts/kagi-small-web.html</guid>
       <pubDate>2026-09-06 09:36:59 +02:00</pubDate>
     </item>
     <item>
@@ -51,8 +51,8 @@ Das ist für sich schon eine interessante Alternative zu Google und Co., allerdi
 <p>Hat man seinen Text dann geschrieben, so wandelt Nicolino nach Aufruf eines weiteren Command-Line-Befehls die erstellten Inhalte in HTML-Dateien, die dann auf einen Webserver gestellt werden können.</p>
 
 <p>Möglicherweise braucht es etwas Zeit und Geduld um die Logik des Tools zu verstehen. Hat man dies aber einmal heraus, so ist Nicolino ein praktisches Werkzeug mit dem man in kürzester Zeit Inhalte online stellen kann.</p>]]></description>
-      <link>/posts/nicolino.html</link>
-      <guid isPermaLink="true">/posts/nicolino.html</guid>
+      <link>https://uselessblog.github.io/posts/nicolino.html</link>
+      <guid isPermaLink="true">https://uselessblog.github.io/posts/nicolino.html</guid>
       <pubDate>2026-09-04 23:09:38 +02:00</pubDate>
     </item>
   </channel>

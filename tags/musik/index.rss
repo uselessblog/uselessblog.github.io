@@ -3,10 +3,19 @@
   <channel>
     <title><![CDATA[Posts tagged musik]]></title>
     <description><![CDATA[Posts tagged musik]]></description>
-    <link>https://github.com/ga2mer/rss.cr</link>
+    <link>https://uselessblog.github.io</link>
     <generator>RSS for Crystal</generator>
-    <lastBuildDate>2026-09-06 17:16:58 UTC</lastBuildDate>
+    <lastBuildDate>2026-09-08 17:19:03 UTC</lastBuildDate>
     <language><![CDATA[DE]]></language>
+    <item>
+      <title><![CDATA[My Analog Journal]]></title>
+      <description><![CDATA[<p>Vor einigen Jahren habe ich "My Analog Journal" auf Youtube entdeckt und möchte das hier teilen. Dabei handelt es sich nicht - wie der Name vermuten lässt - um Videos über das Führen eines Journals oder Notizbuchs, sondern um eine umfangreiche Sammlung von DJ-Sets, die auf Youtube verfügbar ist. My Analog Journal wurde vom Londoner Musikproduzenten und DJ Zag Erlat gegründet, ursprünglich um seine Vinyl-Sammlung zu präsentieren und hat sich seither aber zu einem Outlet entwickelt in dem diverse Record Collector und DJs ihre exklusiven Mixes teilen. Das Setting ist meist ein DJ-Studio, das mit Pflanzen dekoriert ist und in dem dann diverse Gast-DJs Mixes mit so ansprechenden Titeln wie "Nostalgic Analog Textures &amp; Indie Rhythms with Ana Flavia" oder "Rare Caribbean Disco, Funk and Soul with Mokomizik" präsentieren.</p>
+
+<p>Mittlerweile gibt es auch Live Events und Parties unter dem Namen. Und wenn man Zag Erlat auf Patreon unterstützt, dann hat man auch Zugang zu den DJ-Sets in Form von Aufnahmen, die man herunterladen kann. Das bietet dann die Möglichkeit, die Mixes ohne Unterbrechung durch die lästige Youtube-Werbung hören zu können. Die Website von My Analog Journal findet sich <a href="https://www.majical.co.uk">hier</a> und der Direkt-Link zum Youtube-Kanal <a href="https://www.youtube.com/c/MyAnalogJournal">hier</a>.</p>]]></description>
+      <link>https://uselessblog.github.io/posts/maj.html</link>
+      <guid isPermaLink="true">https://uselessblog.github.io/posts/maj.html</guid>
+      <pubDate>2026-09-08 19:11:26 +02:00</pubDate>
+    </item>
     <item>
       <title><![CDATA[Sleep / Walk / Dream]]></title>
       <description><![CDATA[<p>Vor einiger Zeit, also Anfang des Jahres, habe ich etwas Musik mit Gitarre und einigen digitalen und analogen Effektgeräten aufgenommen und veröffentlicht.</p>
@@ -14,8 +23,8 @@
 <p>Das ganze (kurze) Mini-Album ist hier auf der Plattform "Bandcamp" zu finden: <a href="https://shaping-colours.bandcamp.com/music">Sleep / Walk / Dream</a></p>
 
 <p>Man findet es aber aktuell auch auf Spotify.</p>]]></description>
-      <link>/posts/sleeps-walk-dream.html</link>
-      <guid isPermaLink="true">/posts/sleeps-walk-dream.html</guid>
+      <link>https://uselessblog.github.io/posts/sleeps-walk-dream.html</link>
+      <guid isPermaLink="true">https://uselessblog.github.io/posts/sleeps-walk-dream.html</guid>
       <pubDate>2026-09-05 09:48:25 +02:00</pubDate>
     </item>
     <item>
@@ -51,8 +60,8 @@ MCs und Tonbänder sind untrennbar mit der Geschichte des Musik-Recordings verbu
 <a href="https://seilrecords.bandcamp.com">Seil Records</a>
 <a href="https://tapemuzik.de">T.A.P.E. Muzik</a>
 <a href="https://www.mmlxii.com">William Basinski</a></p>]]></description>
-      <link>/posts/MCs-Musikkassetten.html</link>
-      <guid isPermaLink="true">/posts/MCs-Musikkassetten.html</guid>
+      <link>https://uselessblog.github.io/posts/MCs-Musikkassetten.html</link>
+      <guid isPermaLink="true">https://uselessblog.github.io/posts/MCs-Musikkassetten.html</guid>
       <pubDate>2026-09-04 21:49:02 +02:00</pubDate>
     </item>
   </channel>
