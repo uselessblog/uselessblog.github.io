@@ -5,8 +5,23 @@
     <description><![CDATA[Chris' Blog]]></description>
     <link>https://uselessblog.github.io</link>
     <generator>RSS for Crystal</generator>
-    <lastBuildDate>2026-09-08 17:19:03 UTC</lastBuildDate>
+    <lastBuildDate>2026-09-09 16:18:16 UTC</lastBuildDate>
     <language><![CDATA[DE]]></language>
+    <item>
+      <title><![CDATA[Linux - Ubuntu]]></title>
+      <description><![CDATA[<p>Heute schreibe ich über Linux. Ich bin ein großer Linux-Fan. Im Gegensatz zu allen anderen Betriebssystemen, die ich verwende oder verwenden muss, macht Linux richtig Spaß. Ich persönlich verwende hauptsächlich Ubuntu, aber es gibt unzählige andere Distribution auch noch, die für sich genommen, wert sind, entdeckt zu werden. Warum ich Ubuntu verwende? Ich habe schon einige Linux-Distributionen ausprobiert: Debian, Fedora Silverblue, Arch, Manjaro, Mint, Alpine Linux, ... An Ubuntu schätze ich, dass die Auswahl an verfügbarer Software sehr groß ist, die Dokumentation und Hilfestellungs-Seiten im Internet ausreichend vorhanden sind und das meiste einfach out of the box funktioniert.</p>
+
+<p>Ich habe von 2018 bis 2025 mit Unterbrechungen hauptsächlich auf einem Ubuntu Desktop gearbeitet und es hat tatsächlich das meiste, was man für die Arbeit benötigt funktioniert. Microsoft Office über die Cloud, Zoom und MS Teams über Browser oder App, alle gängigen Browser sowieso und zusätzlich noch LibreOffice oder OnlyOffice im Browser; Thunderbird ersetzte Microsoft Outlook und für die Kalenderfunktion konnte man MS Teams nutzen. Was gewinnt man? Vor allem die Freiheit und Möglichkeit Vieles aus den vorhandenen Software-Repositories zu installieren. Automatisierung mit Bash, Python oder einer anderen Skript-Sprache und viele kleine Command-Line-Programme, die den Alltag erleichtern.</p>
+
+<p>Ich verwende mittlerweile Ubuntu hauptsächlich privat, neben MacOS und Android. Und möchte es nicht missen ...</p>
+
+<p>Willst Du Ubuntu ausprobieren? Dann gibt's grundsätzlich zwei Möglichkeiten. Man kann a.) jedes Betriebssystem auch in einer virtuellen Maschine installieren - zum Beispiel indem man <a href="https://www.virtualbox.org">Virtualbox</a> von Oracle auf seinem Windows-PC oder Mac installiert oder b.) man nimmt einen PC (der nicht mehr in Verwendung ist) und installiert Ubuntu darauf. Bei zweiterem jedoch werden alle Daten des bisherigen Betriebssystems gelöscht. Man sollte daher allfällige Daten von diesem PC, die man noch benötigt, allenfalls irgendwohin kopieren und sichern. Zum Ausprobieren ist Variante a.) vielleicht sogar besser, vorausgesetzt man hat einen ausreichend leistungsstarken Rechner um dort in der virtuellen Umgebung ein neues Betriebssystem laufen zu lassen.</p>
+
+<p>Ubuntu selbst findet man kostenlos zum Download <a href="https://ubuntu.com/download">hier</a>. Anleitungen gibt es im Internet oder auch auf den Ubuntu Dokumentationsseiten <a href="https://docs.ubuntu.com">https://docs.ubuntu.com/</a>. Damit braucht es eigentlich nur ein wenig Zeit und eine Portion Experimentierfreudigkeit um sich an das neue Betriebssystem heranzutrauen.</p>]]></description>
+      <link>https://uselessblog.github.io/posts/linux-ubuntu.html</link>
+      <guid isPermaLink="true">https://uselessblog.github.io/posts/linux-ubuntu.html</guid>
+      <pubDate>2026-09-09 18:11:51 +02:00</pubDate>
+    </item>
     <item>
       <title><![CDATA[My Analog Journal]]></title>
       <description><![CDATA[<p>Vor einigen Jahren habe ich "My Analog Journal" auf Youtube entdeckt und möchte das hier teilen. Dabei handelt es sich nicht - wie der Name vermuten lässt - um Videos über das Führen eines Journals oder Notizbuchs, sondern um eine umfangreiche Sammlung von DJ-Sets, die auf Youtube verfügbar ist. My Analog Journal wurde vom Londoner Musikproduzenten und DJ Zag Erlat gegründet, ursprünglich um seine Vinyl-Sammlung zu präsentieren und hat sich seither aber zu einem Outlet entwickelt in dem diverse Record Collector und DJs ihre exklusiven Mixes teilen. Das Setting ist meist ein DJ-Studio, das mit Pflanzen dekoriert ist und in dem dann diverse Gast-DJs Mixes mit so ansprechenden Titeln wie "Nostalgic Analog Textures &amp; Indie Rhythms with Ana Flavia" oder "Rare Caribbean Disco, Funk and Soul with Mokomizik" präsentieren.</p>
