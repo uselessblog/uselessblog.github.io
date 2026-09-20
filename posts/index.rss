@@ -5,8 +5,32 @@
     <description><![CDATA[Posts - RSS]]></description>
     <link>https://uselessblog.github.io</link>
     <generator>RSS for Crystal</generator>
-    <lastBuildDate>2026-09-16 18:05:13 UTC</lastBuildDate>
+    <lastBuildDate>2026-09-20 20:30:42 UTC</lastBuildDate>
     <language><![CDATA[DE]]></language>
+    <item>
+      <title><![CDATA[Mechanische Tastuturen und die Rainy 75]]></title>
+      <description><![CDATA[<p>In <a href="https://uselessblog.github.io/posts/tippen.html">diesem vergangenen Eintrag</a> habe ich über Tippen mit Schreibmaschinen geschrieben und angekündigt, dass ich mich auch noch näher mit mechanischen Computer-Tastaturen beschäftigen werde.
+Neben der Schreibmaschine, tippe ich besonders gerne auf mechanischen Tastaturen. Diese sind vor allem auch in der Gaming-Szene und bei Software-Entwicklern beliebt. Aber was sind mechanische Tastaturen?</p>
+
+<p>Der Unterschied zwischen einer konventionellen Membrantastatur und einer mechanischen liegt in der Haptik. Bei mechanischen Tastaturen liegt jede Taste auf einem eigenen Schalter (Switch), der einen definierten Druckpunkt hat. Solche Tastaturen haben für gewöhnlich eine wesentlich längere Lebensdauer. Mechanische Switches sind für 50 bis 100 Millionen Tastenanschläge ausgelegt und können bei vielen Tastaturen auch einzeln ausgetauscht („hot swap“) werden.</p>
+
+<p>Bei den Switches werden vier Arten unterschieden:</p>
+
+<ul>
+<li>Lineare Switches verfügen über kein taktiles Feedback, einen glatten Tastenhub und sind ideal für schnelles Tippen und leise – also auch im Büro praktikabel.</li>
+<li>Taktile Switches haben einen spürbaren Druckpunkt ohne Klickgeräusch und sind damit ein Kompromiss zwischen Bürotauglichkeit und Tippgefühl.</li>
+<li>„Clicky“ Switches klicken bei jedem Tastendruck – sind also relativ laut und dafür eher fürs Home Office, als für Büro-Settings geeignet.</li>
+<li>„Silent“ Switches, die Material beinhalten, dass die Anschlagsgeräusche dämpft und deshalb fürs (geteilte) Büro besonders gut geeignet sind.</li>
+</ul>
+
+
+<p>Es gibt auch Test-Sets bestehend aus einer Bandbreite an Switches. Mit diesen kann man sehr schnell herausfinden, was haptisch am besten gefällt. Neben den Switches können auch die Tasten („caps“) selbst getauscht werden, zum Beispiel um ausgefallene Farben oder Muster zu verwenden. Viele der mechanischen Keyboards bedienen design-technisch unterschiedliche Nischen, von schlichten monochromen Tastaturen bis hin zu Bunten mit unterschiedlich-färbigen „caps“.</p>
+
+<p>Aktuell verwende ich eine "Rainy 75"-Tastatur vom Hersteller <a href="https://www.wobkey.com">Wobkey</a>. Die Wobkey Rainy 75 wird vor allem aufgrund ihres Klangs beim Tippen beworben, der Regentropfen am Fenster nahekommen soll. Sie kann über USB-C, Bluetooth oder 2,4GHz-Funk verbunden werden, verfügt über einen Akku und ein hochwertiges und massives Aluminiumgehäuse. Sie ist in drei Varianten erhältlich: lite, Standard und Pro mit jeweils unterschiedlichen Merkmalen. Was ich an ihr schätze ist die Haptik in Kombination mit dem Tippgeräusch. So macht Tippen und Schreiben am PC noch viel mehr Spaß, als mit einer gewöhnlichen Membran-Tastatur.</p>]]></description>
+      <link>https://uselessblog.github.io/posts/rainy75.html</link>
+      <guid isPermaLink="true">https://uselessblog.github.io/posts/rainy75.html</guid>
+      <pubDate>2026-09-20 22:24:51 +02:00</pubDate>
+    </item>
     <item>
       <title><![CDATA[Tippen ...]]></title>
       <description><![CDATA[<p>Ich liebe es zu tippen. Am liebsten auf mechanischen (Computer-)Tastaturen oder Schreibmaschinen. Vor vielen Jahren habe ich gelernt mit dem 10-Finger-System zu tippen und seither schreibe ich schneller mit Tastatur, als ich mit der Hand schreiben kann; vielleicht sogar schneller, als ich sprechen kann.</p>
