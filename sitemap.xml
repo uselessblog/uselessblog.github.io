@@ -15,7 +15,7 @@
               <lastmod>2026-09-15 21:23:11 UTC</lastmod>
             </url><url> # ameba:disable Style/MultilineStringLiteral
               <loc>https://uselessblog.github.io/posts/MCs-Musikkassetten.html</loc>
-              <lastmod>2026-09-14 19:02:31 UTC</lastmod>
+              <lastmod>2026-09-22 21:15:36 UTC</lastmod>
             </url><url> # ameba:disable Style/MultilineStringLiteral
               <loc>https://uselessblog.github.io/posts/a-new-adventure.html</loc>
               <lastmod>2026-09-14 19:02:31 UTC</lastmod>
@@ -37,6 +37,9 @@
             </url><url> # ameba:disable Style/MultilineStringLiteral
               <loc>https://uselessblog.github.io/posts/linux-ubuntu.html</loc>
               <lastmod>2026-09-14 19:02:31 UTC</lastmod>
+            </url><url> # ameba:disable Style/MultilineStringLiteral
+              <loc>https://uselessblog.github.io/posts/macbuntu.html</loc>
+              <lastmod>2026-09-25 19:21:46 UTC</lastmod>
             </url><url> # ameba:disable Style/MultilineStringLiteral
               <loc>https://uselessblog.github.io/posts/maj.html</loc>
               <lastmod>2026-09-14 19:02:31 UTC</lastmod>
@@ -66,5 +69,5 @@
               <lastmod>2026-09-15 21:17:50 UTC</lastmod>
             </url><url> # ameba:disable Style/MultilineStringLiteral
               <loc>https://uselessblog.github.io/tags/index.html</loc>
-              <lastmod>2026-09-22 20:58:16 UTC</lastmod>
+              <lastmod>2026-09-25 19:21:46 UTC</lastmod>
             </url></urlset>
