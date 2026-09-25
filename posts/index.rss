@@ -5,8 +5,35 @@
     <description><![CDATA[Posts - RSS]]></description>
     <link>https://uselessblog.github.io</link>
     <generator>RSS for Crystal</generator>
-    <lastBuildDate>2026-09-22 21:15:36 UTC</lastBuildDate>
+    <lastBuildDate>2026-09-25 19:39:36 UTC</lastBuildDate>
     <language><![CDATA[DE]]></language>
+    <item>
+      <title><![CDATA[MacBuntu - Ubuntu auf meinem MacBook Air]]></title>
+      <description><![CDATA[<p>Ubuntu auf Macbook Air</p>
+
+<p>Vor einiger Zeit hat Apple den Support für mein MacBook Air (2017) eingestellt. Ich habe es bisher trotzdem weiterverwendet, doch mittlerweile wird auch die für die alte MacOS-Version verfügbare Software immer rarer bzw. warnt mich davor, dass keine Security-Updates mehr geliefert werden. Zuletzt hat Signal angekündigt den Support für die MacOS-App einzustellen.</p>
+
+<p>Das ist etwas frustrierend, denn die Hardware - inklusive dem vor noch nicht allzu langer Zeit erneuertem Akku - funktioniert noch einwandfrei. Zumindst für Messaging und Web-Surfen. Trotzdem ist es beunruhigend, wenn man dann mit einem veraltetem Betriebssystem und einem nicht mehr unterstützen Browser im Internet surft.</p>
+
+<p>Nun habe ich mich dazu entschiden Ubuntu auf meinem MacBook zu installieren, vorerst zusätzlich bzw. neben MacOS im Dual-Boot. Anleitungen für die Installation gibt es einige im Internet. Am hilfreichsten fand ich diese <a href="https://de.linux-terminal.com/?p=2406">hier</a>. Zwar ist die Ubuntu-Version aus der Anleitung schon älter, aber grundsätzlich funktioniert die Installation auch mit dem aktuellen Ubuntu 26.04 noch so wie beschrieben. Die einzige Ausnahme ist die Auswahl einer SWAP-Partition. Hier kam es bei mir, wenn man der Beschreibung folgt, immer zu einem Fehler bis ich den Punkt ausgelassen und die Installation ohne dezidierte SWAP-Partition fortgesetzt habe.</p>
+
+<p>Die zweite Hürde war die Installation des Drivers für den WLAN-Adapter des MacBook Air. Dieser ging out of the box leider nicht, sodass ich die Internetverbindung zuerst über Bluetooth mit meinem Mobiltelefon via Bluetooth Tethering herstellen musste. Aber auch hierfür gibt es eine Lösung in Form eines Software-Pakets aus den Ubuntu Repositories. Die Lösung habe ich schlussendlich <a href="https://askubuntu.com/questions/1537375/unable-to-locate-package-bcmwl-kernel-source">hier</a> gefunden.</p>
+
+<pre><code>sudo add-apt-repository restricted
+sudo apt update
+sudo apt-get install broadcom-sta-dkms
+</code></pre>
+
+
+<p>Danach muss man den Laptop neustarten und schon läuft das WLAN.</p>
+
+<p>Bis auf diese Basteleien funktioniert Ubuntu in der Version 26.04 großartig mit meinem MacBook aus dem Jahr 2017. Sogar der Akku-Verbrauch - hier hatte ich die meisten Bedenken - ist annähernd gleich wie bei MacOS, sodass man das Gerät nach wie vor mehrere Stunden nutzen kann bis man es wieder aufladen muss.</p>
+
+<p>Zu guter letzt muss ich sagen: ich bin dankbar, dass es Ubuntu und andere Linux-Distributionen gibt. So kann noch brauchbare und gute Hardware auch über den beschränkten Lebenszyklus, den Apple vorsieht, noch sinnvoll genutzt werden. Gleichzeitig ist es schade, dass Apple kein Nutzungsmodell für alte Hardware hat. Gäbe es abgespeckte Versionen der Apple Betriebssysteme für Iphones und Macs, könnte man die Geräte wahrscheinlich noch viele Jahre länger verwenden. Nachhaltigkeit sieht anders aus.</p>]]></description>
+      <link>https://uselessblog.github.io/posts/macbuntu.html</link>
+      <guid isPermaLink="true">https://uselessblog.github.io/posts/macbuntu.html</guid>
+      <pubDate>2026-09-25 21:19:32 +02:00</pubDate>
+    </item>
     <item>
       <title><![CDATA[Resident Evil ...]]></title>
       <description><![CDATA[<p>Stelle Dir vor du bist in einer Stadt, in der sich plötzlich alle Lebewesen in Zombies und Mutanten verwandeln ...</p>
