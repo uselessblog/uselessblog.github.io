@@ -5,8 +5,27 @@
     <description><![CDATA[Posts tagged musik]]></description>
     <link>https://uselessblog.github.io</link>
     <generator>RSS for Crystal</generator>
-    <lastBuildDate>2026-09-15 21:17:50 UTC</lastBuildDate>
+    <lastBuildDate>2026-09-26 19:47:59 UTC</lastBuildDate>
     <language><![CDATA[DE]]></language>
+    <item>
+      <title><![CDATA[Raspberry Pi - Pirate Audio]]></title>
+      <description><![CDATA[<p>Vor einigen Monaten habe ich mir aus einem Raspberry Pi Zero einen kleinen  mp3-Player gebaut, der sowohl über LAN (lokales Netzwerk), als auch mittels Buttons verwendet werden kann.</p>
+
+<p>Der verwendete  Bausatz für den Raspberry Pi Zero heißt "Pirate Audio" und ist bei Pimoroni erhältlich. Die dazugehörige Software gibt es <a href="https://github.com/pimoroni/pirate-audio">hier</a> auf Github. Eine Anleitung für den Bau findet sich <a href="https://github.com/pimoroni/pirate-audio/blob/master/mopidy/README.md">hier</a>.</p>
+
+<p>Den Pirate Audio Aufsatz gibt es in 4 Varianten: als Kopfhörer-Verstärker, 3w-Verstärker für kleine Lautsprecher, mit eingebautem Mini-Lautsprecher oder mit integriertem DAC (digital-to-audio-converter). Ich habe mich für die Variante mit eingebautem Mini-Lautsprecher entschieden.</p>
+
+<p>Zusammenbauen und auch die Einrichtung mithilfe der auf Github verfügbaren Anleitung hat problemlos funktioniert. Das Hinzufügen von mp3s zum lokalen Speicher für das Abspielen am Gerät ist etwas tricky. Ich habe das mit scp von meinem MacBook aus auf der Command Line gelöst und die Files in den konfigurierten Musik-Ordner kopiert.</p>
+
+<p>Etwas später habe ich dann auch ein passendes Case für den Raspberry Pi Zero mit Pirate-Audio-Aufsatz gefunden und zwar <a href="https://www.printables.com/model/85009-pimoroni-pirate-audio-case">hier</a>. Diesen kann man sich am 3D-Drucker selbst ausdrucken. Wenn man keinen 3D-Drucker zur Verfügung hat, gibt es auch diverse Webseiten auf denen man sich das Case gegen Entgelt ausdrucken und zusenden lassen kann.</p>
+
+<p>Der einzige Wermutstropfen bei dem fertigen Projekt ist, dass der Pirate Audio mp3-Player eine Stromversorgung über Netzteil benötigt. Man kann ihn also leider nicht für unterwegs mitnehmen, da er am Strom hängen muss. Zudem braucht er zum Starten eine WLAN-Verbindung, da man initial die abzuspielenden Files über das Web Interface (Mopidity Music Server) auswählen muss und dieses ist über Aufruf einer lokalen IP-Adresse erreichbar. Man kann ihn also nur dort verwenden, wo lokaler WLAN-Empfang vorhanden ist.</p>
+
+<p>Bei mir läuft er jedenfalls immer wieder mal, wenn ich unaufdringliche Hintergrundmusik haben will. Meist höre ich darauf die Mixes von <a href="https://uselessblog.github.io/posts/maj.html">My Analog Journal</a>. Der Speaker ist relativ leise. Man kann ihn aber mit Trichtern (zum Beispiel einer aufgeschnittenen Plastikflasche) verstärken. Das sieht zwar nicht besonders toll aus, erfüllt aber seinen Zweck.</p>]]></description>
+      <link>https://uselessblog.github.io/posts/pirate-audio.html</link>
+      <guid isPermaLink="true">https://uselessblog.github.io/posts/pirate-audio.html</guid>
+      <pubDate>2026-09-26 21:29:38 +02:00</pubDate>
+    </item>
     <item>
       <title><![CDATA[WeJazz Magazine]]></title>
       <description><![CDATA[<p>Heute möchte ich eine Lanze brechen für das <a href="https://wejazz.fi/magazine/">WeJazz Magazin</a>. WeJazz ist ein in englischer Sprache erscheinendes Magazin über Jazz und experimentelle Musik aus Finnland.</p>
@@ -64,15 +83,19 @@ MCs und Tonbänder sind untrennbar mit der Geschichte des Musik-Recordings verbu
 
 <p>Man kann schon allein deshalb nicht vom Revival der Musikkassette sprechen, weil diese nie wirklich weg war. Sie war nur in Nischen zu finden, hat dort aber überdauert. Wer seine Musik auf Kassette veröffentlichen will, der findet mittlerweile einige Anbieter im europäischen Raum. Ich selbst habe gute Erfahrungen mit Monotype Pressing aus Polen gemacht, aber auch schon bei T.A.P.E. Muzik Deutschland bestellt, um nur zwei der etablierten Anbieter zu nennen. Und wer Kassetten kaufen will, tut dies am besten direkt beim Artist oder über die jeweilige Bandcamp-Webseite. Alternativ kann man auch den lokalen Plattenladen unterstützen, denn die meisten führen auch zumindest einige wenige MCs im Angebot. Und wer in Manchester, UK, vorbeikommt, der kann dort den letzten Kassetten-Recordstore besuchen: Mars Tapes.</p>
 
-<p>Links:
-<a href="https://dauw.bandcamp.com">Dauw Records:</a>
-<a href="https://jogginghouse.com">Jogging House</a>
-<a href="https://www.hainbachmusik.com">Hainbach</a>
-<a href="https://www.marstapes.co.uk">Mars Tapes</a>
-<a href="https://monotypepressing.com">Monotype Pressing</a>
-<a href="https://seilrecords.bandcamp.com">Seil Records</a>
-<a href="https://tapemuzik.de">T.A.P.E. Muzik</a>
-<a href="https://www.mmlxii.com">William Basinski</a></p>]]></description>
+<p>Links:</p>
+
+<ul>
+<li><a href="https://dauw.bandcamp.com">Dauw Records</a></li>
+<li><a href="https://jogginghouse.com">Jogging House</a></li>
+<li><a href="https://www.hainbachmusik.com">Hainbach</a></li>
+<li><a href="https://www.marstapes.co.uk">Mars Tapes</a></li>
+<li><a href="https://monotypepressing.com">Monotype Pressing</a></li>
+<li><a href="https://seilrecords.bandcamp.com">Seil Records</a></li>
+<li><a href="https://tapemuzik.de">T.A.P.E. Muzik</a></li>
+<li><a href="https://www.mmlxii.com">William Basinski</a></li>
+</ul>
+]]></description>
       <link>https://uselessblog.github.io/posts/MCs-Musikkassetten.html</link>
       <guid isPermaLink="true">https://uselessblog.github.io/posts/MCs-Musikkassetten.html</guid>
       <pubDate>2026-09-04 21:49:02 +02:00</pubDate>
