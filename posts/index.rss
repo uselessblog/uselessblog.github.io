@@ -5,8 +5,26 @@
     <description><![CDATA[Posts - RSS]]></description>
     <link>https://uselessblog.github.io</link>
     <generator>RSS for Crystal</generator>
-    <lastBuildDate>2026-09-28 11:38:36 UTC</lastBuildDate>
+    <lastBuildDate>2026-10-19 12:30:51 UTC</lastBuildDate>
     <language><![CDATA[DE]]></language>
+    <item>
+      <title><![CDATA[Digger mit Tom Cruise]]></title>
+      <description><![CDATA[<p>Normalerweise bespreche ich hier Dinge, die mir gefallen: Bücher, Filme, Gadgets.</p>
+
+<p>Beim Film Digger von Alejandro Gonzáles Iñárritu ist das anders.</p>
+
+<p>Der neue Tom Cruise Film ist zwar gut gemeint - ich glaube, die Intention und auch die Motivation zu verstehen -, allerdings ist er so schrill, grob und brachial inszeniert, dass ich nach dem ersten Drittel tatsächlich überlegt habe, das Kino frühzeitig zu verlassen.</p>
+
+<p>Warum?</p>
+
+<p>Überladen und schrill: Digger ist so mit Bedeutung aufgeladen und überladen, dass man die Hinweise auf zeitgeschichtliche Geschehnisse gar nicht ignorieren kann. Gleichzeitig gibt es einige Stilmittel - die überzeichnet angelegten Figuren, die Kulissen, aber auch die Einfärbung (colour grading) des Bildes -, die den Zuseher auf Distanz halten. Sie führen dazu, dass man sich kaum mit Personen identifizieren oder sich in diese Personen Hineinversetzen kann. Ähnliches kenne ich auch von einigen Wes Anderson Filmen, die in ihrer märchenhaft anmutenden Inszenierung durchaus verwandt sind.
+Durch diese Stilmittel bleibt das Geschehen in meinem Empfinden auf der Leinwand auf Distanz. Man fühlt nicht mit den Figuren, auch nicht mit den Betroffenen der Geschehnisse, sondern sieht dem Schauspiel zu. Zwar sind die Kulissen und Bilder beeindruckend. Den Tonfall und die Geschwindigkeit, in der die Dialoge und Monologe auf uns Zuseher einprasseln, empfand ich aber als sehr anstrengend, sodass ich mich nach der Hälfte des Films mental ausklinken musste aufgrund der Reizüberflutung.</p>
+
+<p>Das ist schade, denn inhaltlich gibt es im Film durchaus interessante Ideen und Wendungen. Ein wenig subtiler erzählt, hätte die Story mit ihren Wendungen viel Potential gehabt.</p>]]></description>
+      <link>https://uselessblog.github.io/posts/digger-tomcruise.html</link>
+      <guid isPermaLink="true">https://uselessblog.github.io/posts/digger-tomcruise.html</guid>
+      <pubDate>2026-10-19 14:27:15 +02:00</pubDate>
+    </item>
     <item>
       <title><![CDATA[Raspberry Pi - Pirate Audio]]></title>
       <description><![CDATA[<p>Vor einigen Monaten habe ich mir aus einem Raspberry Pi Zero einen kleinen  mp3-Player gebaut, der sowohl über LAN (lokales Netzwerk), als auch mittels Buttons verwendet werden kann.</p>
