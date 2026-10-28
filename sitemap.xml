@@ -38,6 +38,9 @@
               <loc>https://uselessblog.github.io/posts/kagi-small-web.html</loc>
               <lastmod>2026-09-14 19:02:31 UTC</lastmod>
             </url><url> # ameba:disable Style/MultilineStringLiteral
+              <loc>https://uselessblog.github.io/posts/lineage_os.html</loc>
+              <lastmod>2026-10-28 20:18:30 UTC</lastmod>
+            </url><url> # ameba:disable Style/MultilineStringLiteral
               <loc>https://uselessblog.github.io/posts/linux-ubuntu.html</loc>
               <lastmod>2026-09-14 19:02:31 UTC</lastmod>
             </url><url> # ameba:disable Style/MultilineStringLiteral
@@ -75,5 +78,5 @@
               <lastmod>2026-09-15 21:17:50 UTC</lastmod>
             </url><url> # ameba:disable Style/MultilineStringLiteral
               <loc>https://uselessblog.github.io/tags/index.html</loc>
-              <lastmod>2026-10-19 12:30:51 UTC</lastmod>
+              <lastmod>2026-10-28 20:18:30 UTC</lastmod>
             </url></urlset>
