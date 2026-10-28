@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title><![CDATA[Posts tagged lineageos]]></title>
+    <description><![CDATA[Posts tagged lineageos]]></description>
+    <link>https://uselessblog.github.io</link>
+    <generator>RSS for Crystal</generator>
+    <lastBuildDate>2026-10-28 20:18:30 UTC</lastBuildDate>
+    <language><![CDATA[DE]]></language>
+    <item>
+      <title><![CDATA[Lineage OS - Custom Rom für ältere Telefone]]></title>
+      <description><![CDATA[<p>Vor kurzem habe ich ein Sony Xperia 1 III erstanden. Das war im Jahr 2021 Sonys Flagship Smartphone und Aushängeschild für Video- und Fotoaufnahmen. Heute ist es kein Highend-Gerät mehr, aber kann durchaus mit Mittelklasse Android Telefonen mithalten.</p>
+
+<p>Leider ist das letzte Sicherheitsupdate für das Telefon von Sony im Juli 2023 bereitgestellt worden. Länger gab es keinen Support durch den Hersteller, was in Anbetracht der Tatsache, dass dieses Telefon jenseits von € 1 000 gekostet hat, eigentlich beschämend ist.</p>
+
+<p>Ich bin ursprünglich auf das Telefon gestoßen, weil ich ein noch gutes Telefon mit einem 3,5mm Klinkenanschluss für meine vorhandenen kabelgebundenen Kopfhörer gesucht habe. Ich mag die Kopfhörer einfach und wollte mir keine neuen kaufen.</p>
+
+<p>Zum Glück gibt es Lineage OS. Lineage OS ist ein Open Source Custom ROM, das von freiwilligen Entwicklern gepflegt und für eine große Anzahl von älteren und aktuellen Geräten portiert wird. So können auch ältere Smartphones noch mit aktueller Software und Sicherheitsupdates versorgt werden.</p>
+
+<p>Leider hat nach der Installation von Lineage OS auf dem Gerät genau jener Kopfhörer-Klinkenanschluss nicht funktioniert. Ich hatte das in der Folge dann ursprünglich mit wenig Hoffnung auf der Github-Seite als Bug Report eingemeldet - und siehe da ... innerhalb von 2 Woche wurde der Fehler behoben und auch der Klinkenanschluss funktioniert jetzt.</p>
+
+<p>Ein Hoch auf Open Source-Projekte wie Lineage OS und vielen Dank an dieser Stelle an den Maintainer der Version für das Sony Xperia 1 III: <a href="https://github.com/hellobbn">hellobbn</a>.</p>]]></description>
+      <link>https://uselessblog.github.io/posts/lineage_os.html</link>
+      <guid isPermaLink="true">https://uselessblog.github.io/posts/lineage_os.html</guid>
+      <pubDate>2026-10-28 21:03:27 +01:00</pubDate>
+    </item>
+  </channel>
+</rss>
